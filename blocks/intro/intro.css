@@ -17,20 +17,20 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1183px) {
   .intro{
     min-width: 690px;
     min-width: 928px;
   }
 }
 
-@media screen and (max-width: 985px) {
+@media screen and (max-width: 984px) {
   .intro{
     min-width: 720px;
   }
 }
 
-@media screen and (max-width: 637px) {
+@media screen and (max-width: 767px) {
   .intro{
     min-width: 288px;
   }

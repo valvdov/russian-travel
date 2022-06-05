@@ -13,7 +13,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1183px) {
   .place {
     max-width: 928px;
     max-height: 640px;
@@ -32,7 +32,7 @@
   }
   }
 
-  @media screen and (max-width: 637px) {
+  @media screen and (max-width: 767px) {
     .place {
       max-height: 1042px;
       max-width: 320px;

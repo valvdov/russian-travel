@@ -7,19 +7,19 @@
   max-width: 984px;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1183px) {
   .lead{
     max-width: 962px;
   }
 }
 
-@media screen and (max-width: 985px) {
+@media screen and (max-width: 984px) {
   .place__paragraph{
     max-width: 862px;
   }
 }
 
-@media screen and (max-width: 637px) {
+@media screen and (max-width: 767px) {
   .place__paragraph{
     max-width: 406px;
   }
