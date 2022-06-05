@@ -34,8 +34,7 @@
   .photo-grid {
     grid-template-columns: repeat(1, minmax(288px, 1fr));
     grid-template-rows: repeat(1, minmax(216px, 1fr));
-    row-gap: 16px;
-    column-gap: 16px;
+    row-gap: 12px;
     max-width: 320px;
   }
 }

@@ -1,0 +1,7 @@
+.header__lang {
+  padding: 0 18px 0 0;
+}
+
+.header__lang:last-child {
+  padding: 0;
+}

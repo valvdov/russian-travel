@@ -4,7 +4,7 @@
   align-self: center;
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width: 767px) {
   .header__logo {
     max-width: 142px;
     max-height: 42px;
