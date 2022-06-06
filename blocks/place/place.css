@@ -34,5 +34,6 @@
     max-width: 320px;
     grid-template-columns: minmax(min-content, 320px);
     row-gap: 32px;
+    padding-bottom: 50px;
   }
 }
