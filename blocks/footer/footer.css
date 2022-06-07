@@ -10,7 +10,7 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1183px) {
+@media screen and (max-width: 1198px) {
   .footer {
     max-width: 928px;
   }
